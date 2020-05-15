@@ -148,7 +148,7 @@
         },
         320: function (t, e) {
             t.exports = function (t) {
-                t.options.__i18n = t.options.__i18n || [], t.options.__i18n.push('{"ja":{"title":"Legal Mentions","date":"2019年11月11日","name":"Helicx Inc. 代表董事 Jaki Chen","contact":"联系信息","zip":"100 029","address":"中国 | 北京市朝阳区小关东里14号","phone":"NaN"},"en":{"title":"Legal Mentions","date":"Date established: 11/11/2019","name":"Representative Director Jaki Chen of Helicx Inc.","contact":"Contact","zip":"111-0053","address":"No.14, Xiaoguan Dongli，Chaoyang District, Beijing China","phone":"NaN"}}'), delete t.options._Ctor
+                t.options.__i18n = t.options.__i18n || [], t.options.__i18n.push('{"ja":{"title":"Legal Mentions","date":"2019年11月11日","name":"Helicx Inc.","contact":"联系信息","zip":"100 029","address":"中国 | 北京市朝阳区小关东里14号","phone":"NaN"},"en":{"title":"Legal Mentions","date":"Date established: 11/11/2019","name":"Helicx Inc.","contact":"Contact","zip":"111-0053","address":"No.14, Xiaoguan Dongli，Chaoyang District, Beijing China","phone":"NaN"}}'), delete t.options._Ctor
             }
         },
         357: function (t, e, o) {
@@ -544,7 +544,7 @@
                         staticClass: "legals-content-child"
                     }, [o("h4", {
                         staticClass: "sub-ttl"
-                    }, [t._v("我们和第三方Cookie的用途和目的")]), t._v(" "), o("p", [t._v("当您访问我们的网站时，我们和第三方对Cookie的使用属于以下类别之一：")]), t._v(" "), o("ol", [o("li", [o("p", [o("strong", [t._v("必填Cookie")])]), t._v(" "), o("blockquote", [o("p", [t._v("它是cookie，对于浏览网页和使用网页功能至关重要。")]), t._v(" "), o("p", [t._v("例如，它提供站点功能，例如访问安全页面，并且即使页面来回移动，在访问过程中以文本形式输入的信息也会保留。")]), t._v(" "), o("p", [t._v("如果禁用此cookie，则可能无法访问本网站的某些部分，或者可能无法使用本网站上的全部或某些服务，这可能会影响您的操作。 请注意。")])])]), t._v(" "), o("li", [o("p", [o("strong", [t._v("パフォーマンスクッキー")])]), t._v(" "), o("blockquote", [o("p", [t._v("这些cookie还用于分析网站的使用方式，统计访问者数量以及获取有关改进网站的信息。")]), t._v(" "), o("p", [t._v("例如，我们收集有关您对网站使用情况的信息，例如您的浏览器和操作系统，您过去访问过的网站的域名，访问次数，平均访问时间以及访问的页面。 收集的信息是汇总信息，是无法单独识别的匿名数据。 本网站使用Google的访问分析工具“ Google Analytics（分析）”进行这些访问分析。")])])])])])
+                    }, [t._v("我们和第三方Cookie的用途和目的")]), t._v(" "), o("p", [t._v("当您访问我们的网站时，我们和第三方对Cookie的使用属于以下类别之一：")]), t._v(" "), o("ol", [o("li", [o("p", [o("strong", [t._v("必填Cookie")])]), t._v(" "), o("blockquote", [o("p", [t._v("它是cookie，对于浏览网页和使用网页功能至关重要。")]), t._v(" "), o("p", [t._v("例如，它提供站点功能，例如访问安全页面，并且即使页面来回移动，在访问过程中以文本形式输入的信息也会保留。")]), t._v(" "), o("p", [t._v("如果禁用此cookie，则可能无法访问本网站的某些部分，或者可能无法使用本网站上的全部或某些服务，这可能会影响您的操作。 请注意。")])])]), t._v(" "), o("li", [o("p", [o("strong", [t._v("性能cookie")])]), t._v(" "), o("blockquote", [o("p", [t._v("这些cookie还用于分析网站的使用方式，统计访问者数量以及获取有关改进网站的信息。")]), t._v(" "), o("p", [t._v("例如，我们收集有关您对网站使用情况的信息，例如您的浏览器和操作系统，您过去访问过的网站的域名，访问次数，平均访问时间以及访问的页面。 收集的信息是汇总信息，是无法单独识别的匿名数据。 本网站使用Google的访问分析工具“ Google Analytics（分析）”进行这些访问分析。")])])])])])
                 }, function () {
                     var t = this,
                         e = t.$createElement,
