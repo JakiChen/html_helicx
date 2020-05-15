@@ -74,7 +74,7 @@
             },
             w = !1,
             x = !1,
-            y = "https://reedcreative.cc",
+            y = "https://helicx.cc",
             k = {
                 moduleName: "i18n",
                 syncLocale: !1,
@@ -289,15 +289,15 @@
                                 base: "/",
                                 env: {
                                     type: "production",
-                                    baseUrl: "https://reedcreative.cc",
+                                    baseUrl: "https://helicx.cc",
                                     baseDir: "/",
-                                    assetsDir: "https://reedcreative.cc/assets",
+                                    assetsDir: "https://helicx.cc/assets",
                                     wpBaseUrl: "https://wp.reedcreative.co",
                                     wpRestApi: "/wp-json/wp/v2",
                                     baseCdnUrl: "https://strapi.reedcreative.cc",
                                     baseDescJa: "Helicx Co.，Ltd.是一家使用创意解决方案来解决问题的总体计划公司。 我们计划和管理各种不受框架约束的事物，例如广告制作，品牌和数字产品开发以及艺术家管理。",
                                     baseDescEn: "Helicx Inc. is a planning company uses creativity to solve problems. We integrate strategy, creativity and experience to build brands.",
-                                    analyticsId: "UA-162031185-1"
+                                    analyticsId: "UA-166822615-1"
                                     /* Google Analystic */
                                 }
                             }, o.req && (e.context.req = o.req), o.res && (e.context.res = o.res), o.ssrContext && (e.context.ssrContext = o.ssrContext), e.context.redirect = function (t, path, o) {
@@ -2477,7 +2477,7 @@
                 data: function () {
                     return {
                         type: "production",
-                        baseUrl: "https://reedcreative.cc",
+                        baseUrl: "https://helicx.cc",
                         isLoading: !0,
                         isLoaded: !1,
                         isLaw: !0,
@@ -4381,7 +4381,7 @@
                         content: "#FF4E50"
                     }, {
                         name: "msapplication-TileImage",
-                        content: "https://reedcreative.cc/assets/img/common/icons/mstile-150x150.png"
+                        content: "https://helicx.cc/assets/img/common/icons/mstile-150x150.png"
                     }, {
                         hid: "description",
                         name: "description",
@@ -4405,7 +4405,7 @@
                     }, {
                         hid: "twitter:image",
                         property: "twitter:image",
-                        content: "https://reedcreative.cc/assets/img/common/share.png"
+                        content: "https://helicx.cc/assets/img/common/share.png"
                     }, {
                         hid: "og:type",
                         property: "og:type",
@@ -4421,7 +4421,7 @@
                     }, {
                         hid: "og:image",
                         property: "og:image",
-                        content: "https://reedcreative.cc/assets/img/common/share.png"
+                        content: "https://helicx.cc/assets/img/common/share.png"
                     }, {
                         hid: "og:image:width",
                         property: "og:image:width",
@@ -4437,7 +4437,7 @@
                     }, {
                         hid: "og:url",
                         property: "og:url",
-                        content: "https://reedcreative.cc"
+                        content: "https://helicx.cc"
                     }, {
                         hid: "itemprop:name",
                         itemprop: "name",
@@ -4449,7 +4449,7 @@
                     }, {
                         hid: "itemprop:image",
                         itemprop: "image",
-                        content: "https://reedcreative.cc/assets/img/common/share.png"
+                        content: "https://helicx.cc/assets/img/common/share.png"
                     }, {
                         hid: "mobile-web-app-capable",
                         name: "mobile-web-app-capable",
@@ -4462,57 +4462,57 @@
                     link: [{
                         rel: "icon",
                         type: "image/x-icon",
-                        href: "https://reedcreative.cc/assets/img/common/icons/favicon.ico"
+                        href: "https://helicx.cc/assets/img/common/icons/favicon.ico"
                     }, {
                         rel: "apple-touch-icon",
                         sizes: "180x180",
-                        href: "https://reedcreative.cc/assets/img/common/icons/apple-touch-icon.png"
+                        href: "https://helicx.cc/assets/img/common/icons/apple-touch-icon.png"
                     }, {
                         rel: "manifest",
-                        href: "https://reedcreative.cc/assets/img/common/icons/manifest.json"
+                        href: "https://helicx.cc/assets/img/common/icons/manifest.json"
                     }, {
                         rel: "mask-icon",
                         color: "#FF4E50",
-                        href: "https://reedcreative.cc/assets/img/common/icons/safari-pinned-tab.svg"
+                        href: "https://helicx.cc/assets/img/common/icons/safari-pinned-tab.svg"
                     }, {
                         rel: "preload",
-                        href: "https://reedcreative.cc/assets/fonts/hk-nova/HKNova-Regular.woff2",
+                        href: "https://helicx.cc/assets/fonts/hk-nova/HKNova-Regular.woff2",
                         as: "font",
                         type: "font/woff2",
                         crossorigin: ""
                     }, {
                         rel: "preload",
-                        href: "https://reedcreative.cc/assets/fonts/hk-nova/HKNova-Medium.woff2",
+                        href: "https://helicx.cc/assets/fonts/hk-nova/HKNova-Medium.woff2",
                         as: "font",
                         type: "font/woff2",
                         crossorigin: ""
                     }, {
                         rel: "preload",
-                        href: "https://reedcreative.cc/assets/fonts/hk-nova/HKNova-Bold.woff2",
+                        href: "https://helicx.cc/assets/fonts/hk-nova/HKNova-Bold.woff2",
                         as: "font",
                         type: "font/woff2",
                         crossorigin: ""
                     }, {
                         rel: "preload",
-                        href: "https://reedcreative.cc/assets/fonts/hk-grotesk-pro/HKGroteskPro-Regular.woff2",
+                        href: "https://helicx.cc/assets/fonts/hk-grotesk-pro/HKGroteskPro-Regular.woff2",
                         as: "font",
                         type: "font/woff2",
                         crossorigin: ""
                     }, {
                         rel: "preload",
-                        href: "https://reedcreative.cc/assets/fonts/hk-grotesk-pro/HKGroteskPro-Medium.woff2",
+                        href: "https://helicx.cc/assets/fonts/hk-grotesk-pro/HKGroteskPro-Medium.woff2",
                         as: "font",
                         type: "font/woff2",
                         crossorigin: ""
                     }, {
                         rel: "preload",
-                        href: "https://reedcreative.cc/assets/fonts/hk-grotesk-pro/HKGroteskPro-Bold.woff2",
+                        href: "https://helicx.cc/assets/fonts/hk-grotesk-pro/HKGroteskPro-Bold.woff2",
                         as: "font",
                         type: "font/woff2",
                         crossorigin: ""
                     }, {
                         rel: "preconnect",
-                        href: "https://reedcreative.cc" /* 系统库 */
+                        href: "https://helicx.cc" /* 系统库 */
                     }, {
                         rel: "preconnect",
                         href: "https://wp.reedcreative.cc" /* 新闻库 */
