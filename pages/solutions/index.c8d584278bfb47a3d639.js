@@ -763,7 +763,7 @@
                         staticClass: "gothic"
                     }, [t._v("“")]), t._v(" "), o("span", {
                         staticClass: "en"
-                    }, [t._v("Helix")]), t._v(" "), o("span", {
+                    }, [t._v("Helicx")]), t._v(" "), o("span", {
                         staticClass: "dash"
                     }, [t._v("ー")]), t._v(" "), o("span", {
                         class: "" + t.$i18n.locale
