@@ -222,9 +222,9 @@
                             creative: [{
                                 ttl: "Strategy & Branding"
                             }, {
-                                ttl: "UX + Product Strategy"
+                                ttl: "Strategic + Product Design"
                             }, {
-                                ttl: "Product + Experience Design"
+                                ttl: "Digital Communication"
                             }, {
                                 ttl: "Visual Design"
                             }, {
