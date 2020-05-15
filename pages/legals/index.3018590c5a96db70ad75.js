@@ -148,7 +148,7 @@
         },
         320: function (t, e) {
             t.exports = function (t) {
-                t.options.__i18n = t.options.__i18n || [], t.options.__i18n.push('{"ja":{"title":"Legal Mentions","date":"2019年11月11日","name":"Helicx Inc.","contact":"联系信息","zip":"100 029","address":"中国 | 北京市朝阳区小关东里14号","phone":"NaN"},"en":{"title":"Legal Mentions","date":"Date established: 11/11/2019","name":"Helicx Inc.","contact":"Contact","zip":"111-0053","address":"No.14, Xiaoguan Dongli，Chaoyang District, Beijing China","phone":"NaN"}}'), delete t.options._Ctor
+                t.options.__i18n = t.options.__i18n || [], t.options.__i18n.push('{"ja":{"title":"Legal Mentions","date":"2020年05月16日","name":"Helicx Inc.","contact":"联系信息","zip":"100 029","address":"中国 | 北京市朝阳区小关东里14号","phone":"NaN"},"en":{"title":"Legal Mentions","date":"Date established: 05/16/2020","name":"Helicx Inc.","contact":"Contact","zip":"111-0053","address":"No.14, Xiaoguan Dongli，Chaoyang District, Beijing China","phone":"NaN"}}'), delete t.options._Ctor
             }
         },
         357: function (t, e, o) {
