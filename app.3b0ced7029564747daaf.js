@@ -8313,8 +8313,8 @@
                 },
                 /* emails for contact */
                 emails: {
-                    contact: "info[at]reedcreative[dot]cc",
-                    jobs: "jobs[at]reedcreative[dot]cc"
+                    contact: "info[at]helicx[dot]cc",
+                    jobs: "jobs[at]helicx[dot]cc"
                 }
             }, t.path = {}, t.path.baseUrl = "https://strapi.reedcreative.cc/assets";
             var e = detect.webp ? "webp" : "jpg",
