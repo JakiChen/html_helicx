@@ -70,7 +70,7 @@
                     head: function () {
                         return {
                             title: this.title,
-                            titleTemplate: "%s ー Helixes Inc.",
+                            titleTemplate: "%s ー Helicx Inc.",
                             htmlAttrs: {
                                 lang: this.$i18n.locale
                             },

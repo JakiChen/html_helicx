@@ -148,7 +148,7 @@
         },
         320: function (t, e) {
             t.exports = function (t) {
-                t.options.__i18n = t.options.__i18n || [], t.options.__i18n.push('{"ja":{"title":"Legal Mentions","date":"2019年11月11日","name":"Helixes Inc. 代表董事 Jaki Chen","contact":"联系信息","zip":"100 029","address":"中国 | 北京市朝阳区小关东里14号","phone":"NaN"},"en":{"title":"Legal Mentions","date":"Date established: 11/11/2019","name":"Representative Director Jaki Chen of Helixes Inc.","contact":"Contact","zip":"111-0053","address":"No.14, Xiaoguan Dongli，Chaoyang District, Beijing China","phone":"NaN"}}'), delete t.options._Ctor
+                t.options.__i18n = t.options.__i18n || [], t.options.__i18n.push('{"ja":{"title":"Legal Mentions","date":"2019年11月11日","name":"Helicx Inc. 代表董事 Jaki Chen","contact":"联系信息","zip":"100 029","address":"中国 | 北京市朝阳区小关东里14号","phone":"NaN"},"en":{"title":"Legal Mentions","date":"Date established: 11/11/2019","name":"Representative Director Jaki Chen of Helicx Inc.","contact":"Contact","zip":"111-0053","address":"No.14, Xiaoguan Dongli，Chaoyang District, Beijing China","phone":"NaN"}}'), delete t.options._Ctor
             }
         },
         357: function (t, e, o) {
@@ -187,7 +187,7 @@
                     data: function () {
                         return {
                             title: this.$t.bind(this)("title"),
-                            description: "ja" === this.$i18n.locale ? "Helixes Co.，Ltd.是一家使用创意解决方案来解决问题的总体计划公司。 我们计划和管理各种不受框架约束的事物，例如广告制作，品牌和数字产品开发以及艺术家管理。" : "Helixes Inc. is a planning company uses creativity to solve problems. We integrate strategy, creativity and experience to build brands.",
+                            description: "ja" === this.$i18n.locale ? "Helixes Co.，Ltd.是一家使用创意解决方案来解决问题的总体计划公司。 我们计划和管理各种不受框架约束的事物，例如广告制作，品牌和数字产品开发以及艺术家管理。" : "Helicx Inc. is a planning company uses creativity to solve problems. We integrate strategy, creativity and experience to build brands.",
                             className: "legals",
                             headerTitle: "Legal Mentions",
                             headerSubTitle: "",
@@ -199,7 +199,7 @@
                     head: function () {
                         return {
                             title: this.title,
-                            titleTemplate: "%s ー Helixes Inc.",
+                            titleTemplate: "%s ー Helicx Inc.",
                             htmlAttrs: {
                                 lang: this.$i18n.locale
                             },
@@ -423,11 +423,11 @@
                         attrs: {
                             to: t.localePath("index")
                         }
-                    }, [t._v("helixes")]), t._v("  (“this site”), is operated by Helixes Inc. (“we,” “our”). Please read the terms below before using this site; please only use this site if you agree to these terms.")], 1)]), t._v(" "), t._m(14), t._v(" "), t._m(15), t._v(" "), t._m(16), t._v(" "), t._m(17), t._v(" "), t._m(18)]), t._v(" "), t._m(19), t._v(" "), o("div", {
+                    }, [t._v("helixes")]), t._v("  (“this site”), is operated by Helicx Inc. (“we,” “our”). Please read the terms below before using this site; please only use this site if you agree to these terms.")], 1)]), t._v(" "), t._m(14), t._v(" "), t._m(15), t._v(" "), t._m(16), t._v(" "), t._m(17), t._v(" "), t._m(18)]), t._v(" "), t._m(19), t._v(" "), o("div", {
                         staticClass: "m-post-body | legals-content | last"
                     }, [t._m(20), t._v(" "), o("div", {
                         staticClass: "legals-content-child"
-                    }, [o("p", [t._v("Part of the website (hereinafter the “Site”) of Helixes Inc. (hereinafter “Helixes”) uses “cookies” and similar technology. When the website is accessed, Helixes or a specified third party might set a cookie in your computer, tablet, smartphone, or mobile phone (hereinafter “Device”).")]), t._v(" "), o("p", [t._v("Helixes uses cookies to make the Site more convenient when the website is viewed. The cookies are not used to identify your personal or other information, to read information from your hard disk, to send computer viruses, or to identify your email address. In addition, cookies are used for statistical analysis of the Site usage conditions and advertising. Accepting the use of cookies is recommended when using this Site.")]), t._v(" "), o("p", [t._v("This cookie policy will be suitably revised as necessary. Revisions to this cookie policy become effective when the latest version of the cookie policy is posted on the Site by Helixes.")]), t._v(" "), o("p", [t._v("Please make inquiries regarding this cookie policy using the given "), o("nuxt-link", {
+                    }, [o("p", [t._v("Part of the website (hereinafter the “Site”) of Helicx Inc. (hereinafter “Helixes”) uses “cookies” and similar technology. When the website is accessed, Helixes or a specified third party might set a cookie in your computer, tablet, smartphone, or mobile phone (hereinafter “Device”).")]), t._v(" "), o("p", [t._v("Helixes uses cookies to make the Site more convenient when the website is viewed. The cookies are not used to identify your personal or other information, to read information from your hard disk, to send computer viruses, or to identify your email address. In addition, cookies are used for statistical analysis of the Site usage conditions and advertising. Accepting the use of cookies is recommended when using this Site.")]), t._v(" "), o("p", [t._v("This cookie policy will be suitably revised as necessary. Revisions to this cookie policy become effective when the latest version of the cookie policy is posted on the Site by Helixes.")]), t._v(" "), o("p", [t._v("Please make inquiries regarding this cookie policy using the given "), o("nuxt-link", {
                         staticClass: "link",
                         attrs: {
                             to: t.localePath("contact")

@@ -148,7 +148,7 @@
         },
         338: function (e, t) {
             e.exports = function (e) {
-                e.options.__i18n = e.options.__i18n || [], e.options.__i18n.push('{"ja":{"title":"Helixes Inc.","solutions":"Helixes利用创造力解决品牌挑战。 我们凭借非常规的想法，精巧的输出以及通过我们自己的业务积累的知识和智慧，提出了可促进世界发展的解决方案。","creative":"我们将使用最适合您目的的广告素材（例如图形，视频和数字广告）为您的品牌创建新故事。","services":"在不同领域发展多种业务。 我们正在利用我们对创意工作的知识来创造能够促进社会发展的业务。"},"en":{"title":"Helixes Inc.","solutions":"Helixes solves brand issues with creativity. We provide solutions which advance the world with unconventional ideas, refined output and knowledge and wisdom accumulated through our own businesses.","creative":"We spin new stories for brands through ideal creative for the purpose such as graphics, images, digital and so on.","services":"We develop multiple businesses in various fields. We create businesses which advance society by utilizing knowledge of creative works."}}'), delete e.options._Ctor
+                e.options.__i18n = e.options.__i18n || [], e.options.__i18n.push('{"ja":{"title":"Helicx Inc.","solutions":"Helixes利用创造力解决品牌挑战。 我们凭借非常规的想法，精巧的输出以及通过我们自己的业务积累的知识和智慧，提出了可促进世界发展的解决方案。","creative":"我们将使用最适合您目的的广告素材（例如图形，视频和数字广告）为您的品牌创建新故事。","services":"在不同领域发展多种业务。 我们正在利用我们对创意工作的知识来创造能够促进社会发展的业务。"},"en":{"title":"Helicx Inc.","solutions":"Helixes solves brand issues with creativity. We provide solutions which advance the world with unconventional ideas, refined output and knowledge and wisdom accumulated through our own businesses.","creative":"We spin new stories for brands through ideal creative for the purpose such as graphics, images, digital and so on.","services":"We develop multiple businesses in various fields. We create businesses which advance society by utilizing knowledge of creative works."}}'), delete e.options._Ctor
             }
         },
         384: function (e, t, o) {
@@ -385,7 +385,7 @@
                     data: function () {
                         return {
                             title: this.$t.bind(this)("title"),
-                            description: "ja" === this.$i18n.locale ? "Helixes Co.，Ltd.是一家使用创意解决方案来解决问题的总体计划公司。 我们计划和管理各种不受框架约束的事物，例如广告制作，品牌和数字产品开发以及艺术家管理。" : "Helixes Inc. is a planning company uses creativity to solve problems. We integrate strategy, creativity and experience to build brands.",
+                            description: "ja" === this.$i18n.locale ? "Helixes Co.，Ltd.是一家使用创意解决方案来解决问题的总体计划公司。 我们计划和管理各种不受框架约束的事物，例如广告制作，品牌和数字产品开发以及艺术家管理。" : "Helicx Inc. is a planning company uses creativity to solve problems. We integrate strategy, creativity and experience to build brands.",
                             className: "home",
                             copy: "We integrate strategy, creativity and experience to build brands.",
                             helixWave: null,
@@ -408,7 +408,7 @@
                     head: function () {
                         return {
                             title: this.title,
-                            titleTemplate: "Helixes Inc.",
+                            titleTemplate: "Helicx Inc.",
                             htmlAttrs: {
                                 lang: this.$i18n.locale
                             },

@@ -296,7 +296,7 @@
                                     wpRestApi: "/wp-json/wp/v2",
                                     baseCdnUrl: "https://strapi.reedcreative.cc",
                                     baseDescJa: "Helixes Co.，Ltd.是一家使用创意解决方案来解决问题的总体计划公司。 我们计划和管理各种不受框架约束的事物，例如广告制作，品牌和数字产品开发以及艺术家管理。",
-                                    baseDescEn: "Helixes Inc. is a planning company uses creativity to solve problems. We integrate strategy, creativity and experience to build brands.",
+                                    baseDescEn: "Helicx Inc. is a planning company uses creativity to solve problems. We integrate strategy, creativity and experience to build brands.",
                                     analyticsId: "UA-162031185-1"
                                     /* Google Analystic */
                                 }
@@ -4349,7 +4349,7 @@
             pe = {
                 /* config head */
                 head: {
-                    titleTemplate: "Helixes Inc.",
+                    titleTemplate: "Helicx Inc.",
                     meta: [{
                         charset: "utf-8"
                     }, {
@@ -4397,7 +4397,7 @@
                     }, {
                         hid: "twitter:title",
                         property: "twitter:title",
-                        content: "Helixes Inc."
+                        content: "Helicx Inc."
                     }, {
                         hid: "twitter:description",
                         property: "twitter:description",
@@ -4413,7 +4413,7 @@
                     }, {
                         hid: "og:title",
                         property: "og:title",
-                        content: "Helixes Inc."
+                        content: "Helicx Inc."
                     }, {
                         hid: "og:description",
                         property: "og:description",
@@ -4433,7 +4433,7 @@
                     }, {
                         hid: "og:site_name",
                         property: "og:site_name",
-                        content: "Helixes Inc."
+                        content: "Helicx Inc."
                     }, {
                         hid: "og:url",
                         property: "og:url",
@@ -4441,7 +4441,7 @@
                     }, {
                         hid: "itemprop:name",
                         itemprop: "name",
-                        content: "Helixes Inc."
+                        content: "Helicx Inc."
                     }, {
                         hid: "itemprop:description",
                         itemprop: "description",
