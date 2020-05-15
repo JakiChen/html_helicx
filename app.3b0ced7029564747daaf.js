@@ -295,7 +295,7 @@
                                     wpBaseUrl: "https://wp.reedcreative.co",
                                     wpRestApi: "/wp-json/wp/v2",
                                     baseCdnUrl: "https://strapi.reedcreative.cc",
-                                    baseDescJa: "Helixes Co.，Ltd.是一家使用创意解决方案来解决问题的总体计划公司。 我们计划和管理各种不受框架约束的事物，例如广告制作，品牌和数字产品开发以及艺术家管理。",
+                                    baseDescJa: "Helicx Co.，Ltd.是一家使用创意解决方案来解决问题的总体计划公司。 我们计划和管理各种不受框架约束的事物，例如广告制作，品牌和数字产品开发以及艺术家管理。",
                                     baseDescEn: "Helicx Inc. is a planning company uses creativity to solve problems. We integrate strategy, creativity and experience to build brands.",
                                     analyticsId: "UA-162031185-1"
                                     /* Google Analystic */
@@ -4385,7 +4385,7 @@
                     }, {
                         hid: "description",
                         name: "description",
-                        content: "Helixes Co.，Ltd.是一家使用创意解决方案来解决问题的总体计划公司。 我们计划和管理各种不受框架约束的事物，例如广告制作，品牌和数字产品开发以及艺术家管理。"
+                        content: "Helicx Co.，Ltd.是一家使用创意解决方案来解决问题的总体计划公司。 我们计划和管理各种不受框架约束的事物，例如广告制作，品牌和数字产品开发以及艺术家管理。"
                     }, {
                         hid: "twitter:card",
                         property: "twitter:card",
@@ -4401,7 +4401,7 @@
                     }, {
                         hid: "twitter:description",
                         property: "twitter:description",
-                        content: "Helixes Co.，Ltd.是一家使用创意解决方案来解决问题的总体计划公司。 我们计划和管理各种不受框架约束的事物，例如广告制作，品牌和数字产品开发以及艺术家管理。"
+                        content: "Helicx Co.，Ltd.是一家使用创意解决方案来解决问题的总体计划公司。 我们计划和管理各种不受框架约束的事物，例如广告制作，品牌和数字产品开发以及艺术家管理。"
                     }, {
                         hid: "twitter:image",
                         property: "twitter:image",
@@ -4417,7 +4417,7 @@
                     }, {
                         hid: "og:description",
                         property: "og:description",
-                        content: "Helixes Co.，Ltd.是一家使用创意解决方案来解决问题的总体计划公司。 我们计划和管理各种不受框架约束的事物，例如广告制作，品牌和数字产品开发以及艺术家管理。"
+                        content: "Helicx Co.，Ltd.是一家使用创意解决方案来解决问题的总体计划公司。 我们计划和管理各种不受框架约束的事物，例如广告制作，品牌和数字产品开发以及艺术家管理。"
                     }, {
                         hid: "og:image",
                         property: "og:image",
@@ -4445,7 +4445,7 @@
                     }, {
                         hid: "itemprop:description",
                         itemprop: "description",
-                        content: "Helixes Co.，Ltd.是一家使用创意解决方案来解决问题的总体计划公司。 我们计划和管理各种不受框架约束的事物，例如广告制作，品牌和数字产品开发以及艺术家管理。"
+                        content: "Helicx Co.，Ltd.是一家使用创意解决方案来解决问题的总体计划公司。 我们计划和管理各种不受框架约束的事物，例如广告制作，品牌和数字产品开发以及艺术家管理。"
                     }, {
                         hid: "itemprop:image",
                         itemprop: "image",
