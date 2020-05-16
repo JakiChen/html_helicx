@@ -186,8 +186,8 @@
             var c = {
                     data: function () {
                         return {
-                            baseUrl: "https://reedcreative.cc",
-                            assetsDir: "https://reedcreative.cc/assets",
+                            baseUrl: "https://helicx.cc",
+                            assetsDir: "https://helicx.cc/assets", /* 客户素材 */
                             title: this.$t.bind(this)("title"),
                             description: "ja" === this.$i18n.locale ? "Helicx Co.，Ltd.是一家使用创意解决方案来解决问题的总体计划公司。 我们计划和管理各种不受框架约束的事物，例如广告制作，品牌和数字产品开发以及艺术家管理。" : "Helicx Inc. is a planning company uses creativity to solve problems. We integrate strategy, creativity and experience to build brands.",
                             className: "solutions",
