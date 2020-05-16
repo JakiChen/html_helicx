@@ -292,7 +292,7 @@
                                     baseUrl: "https://helicx.cc",
                                     baseDir: "/",
                                     assetsDir: "https://helicx.cc/assets",
-                                    wpBaseUrl: "https://wp.reedcreative.co",
+                                    wpBaseUrl: "https://wp.helicx.cc",
                                     wpRestApi: "/wp-json/wp/v2",
                                     baseCdnUrl: "https://strapi.reedcreative.cc",
                                     baseDescJa: "Helicx Co.，Ltd.是一家使用创意解决方案来解决问题的总体计划公司。 我们计划和管理各种不受框架约束的事物，例如广告制作，品牌和数字产品开发以及艺术家管理。",
@@ -4515,7 +4515,7 @@
                         href: "https://helicx.cc" /* 系统库 */
                     }, {
                         rel: "preconnect",
-                        href: "https://wp.reedcreative.cc" /* 新闻库 */
+                        href: "https://wp.helicx.cc" /* 新闻库 */
                     }, {
                         rel: "preconnect",
                         href: "https://strapi.reedcreative.cc", /* 资源库 */
@@ -5263,14 +5263,14 @@
             };
         c.a.prototype.$eventHub = new c.a;
         o(283);
-        Ye.a.defaults.baseURL = "https://wp.reedcreative.cc/wp-json/wp/v2"; /* https://wp.helixes.co/wp-json/wp/v2*/
+        Ye.a.defaults.baseURL = "https://wp.helicx.cc/wp-json/wp/v2"; /* https://wp.helixes.co/wp-json/wp/v2*/
         var ei = function (t, e) {
                 t.app.$api = {
                     getIdNameFromSlug: function (t) {
                         return new Promise((function (e, o) {
                             var n = (t = t || {}).type || "category",
                                 r = t.slug || null,
-                                c = "".concat("https://wp.reedcreative.cc", "/wp-json/slug/v1/").concat(n, "/").concat(r);
+                                c = "".concat("https://wp.helicx.cc", "/wp-json/slug/v1/").concat(n, "/").concat(r);
                             Ye.a.get(c).then((function (t) {
                                 var data = t.data;
                                 200 === t.status && t.data.length ? e({
