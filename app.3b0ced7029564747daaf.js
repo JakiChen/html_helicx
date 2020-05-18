@@ -8375,8 +8375,8 @@
                 /* Google maps */
                 urls: {
                     gmaps: "https://maps.apple.com/?q=39.977787,116.416800&sll=39.977787,116.416800&sspn=0.064847,0.118817&t=m",
-                    profileJa: "https://docs.google.com/presentation/d/1VCAORAWlHpMNoqHXx_MUo1VopiM1GAmbpf-T_jiLqxQ/edit?usp=sharing",
-                    profileEn: "https://docs.google.com/presentation/d/1VCAORAWlHpMNoqHXx_MUo1VopiM1GAmbpf-T_jiLqxQ/edit?usp=sharing"
+                    profileJa: "https://docs.google.com/",
+                    profileEn: "https://docs.google.com/"
                 }
             }, t.device = function () {
                 return ua.desktop ? "desktop" : ua.tablet ? "tablet" : ua.mobile ? "mobile" : void 0
